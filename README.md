@@ -1,9 +1,8 @@
 # **DIAGRAMAS DE ACTIVIDADES UML**
 
-**Autores:**  
-Jairo Andrés Rincón Blanco  
-Andres Camilo Cuvides Ortega  
-
+**Autores:**  Jairo Andrés Rincón Blanco - Andres Camilo Cuvides Ortega  
+**Profesor:** Hely Suarez Marin
+**FESC*
 ---
 
 ## **Objetivos**
@@ -14,7 +13,7 @@ Diseñar y documentar un Diagrama de Actividades UML que represente el proceso d
 
 ## **Resumen**
 
-El objetivo fue modelar el proceso actual (AS-IS) de inscripción intersemestral y proponer una versión optimizada (TO-BE) que reduce pasos manuales, paraleliza validaciones y mejora la experiencia del estudiante. El modelo TO-BE automatiza validaciones de prerrequisitos y asignación de cupos, integra pagos en línea con notificaciones automáticas y centraliza el registro en facturación.
+El objetivo de esto, fue modelar el proceso actual (AS-IS) de inscripción intersemestral y proponer una versión optimizada (TO-BE) que reduce pasos manuales, paraleliza validaciones y mejora la experiencia del estudiante. El modelo TO-BE automatiza validaciones de prerrequisitos y asignación de cupos, integra pagos en línea con notificaciones automáticas y centraliza el registro en facturación.
 
 ---
 
@@ -120,3 +119,11 @@ else (no)
 endif
 stop
 @enduml
+```
+
+
+## **Conclusión**
+
+El modelado **AS-IS** revela un proceso funcional pero con dependencias manuales y cuellos de botella en las validaciones y la gestión de pagos.  
+La propuesta **TO-BE** reduce la latencia del proceso a través de **automatización y paralelización** (validaciones automáticas de prerrequisitos y cupos, integración de pagos y facturación, notificaciones automáticas y provisión del aula virtual), resultando en una experiencia de inscripción **más rápida**, **menos propensa a errores** y con **menor carga operativa** para coordinación y tesorería.
+
