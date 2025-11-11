@@ -77,8 +77,9 @@ else (no)
 endif
 stop
 @enduml
-
-
+```
+---
+```
 @startuml TO_BE_Inscripcion_Optimizado
 |Estudiante|
 start
