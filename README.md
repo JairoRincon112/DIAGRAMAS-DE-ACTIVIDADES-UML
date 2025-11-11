@@ -77,6 +77,8 @@ endif
 stop
 @enduml
 ```
+diagrama_inscripcion_v1.drawio.png 
+
 ---
 ### **TO BE (Proceso Optimizado)**
 
