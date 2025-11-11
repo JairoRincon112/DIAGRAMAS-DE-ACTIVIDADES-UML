@@ -79,7 +79,10 @@ stop
 @enduml
 ```
 ---
+### **TO BE (Proceso Optimizado)**
+
 ```
+
 @startuml TO_BE_Inscripcion_Optimizado
 |Estudiante|
 start
