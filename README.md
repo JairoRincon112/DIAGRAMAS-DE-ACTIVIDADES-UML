@@ -2,7 +2,7 @@
 
 **Autores:**  Jairo Andrés Rincón Blanco - Andres Camilo Cuvides Ortega  
 **Profesor:** Hely Suarez Marin
-**FESC*
+**FESC**
 ---
 
 ## **Objetivos**
@@ -77,13 +77,13 @@ endif
 stop
 @enduml
 ```
-diagrama_inscripcion_v1.drawio.png 
+
+![Diagrama_Inscripcion_v1](diagrama_inscripcion_v1.drawio.png)
 
 ---
 ### **TO BE (Proceso Optimizado)**
 
-```
-
+```plantuml
 @startuml TO_BE_Inscripcion_Optimizado
 |Estudiante|
 start
@@ -123,6 +123,7 @@ stop
 @enduml
 ```
 
+![Diagrama_Inscripcion_v2 (OPTIMIZADO)](diagrama_inscripcion_v2.drawio.png)
 
 ## **Conclusión**
 
